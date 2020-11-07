@@ -1,0 +1,40 @@
+.dropdown-menu-align-left {
+    text-align: left;
+    background-color: inherit;
+    color: white;
+    border-style: hidden;
+    cursor: pointer;
+    display: inline-flex;
+}
+
+.menu-align-right {
+    text-align: right;
+    background-color: inherit;
+    color: white;
+    border-style: hidden;
+    cursor: pointer;
+    display: inline-flex;
+    float: right;
+    margin-right: 10%;
+}
+
+.show>.dropdown-toggle.btn-primary {
+    background-color: tomato !important;
+}
+
+.dropdown-item {
+    display: block;
+    width: auto;
+    padding: .25rem 1.5rem;
+    /* clear: both; */
+    font-weight: 400;
+    color: #212529;
+    /* text-align: inherit; */
+    /* white-space: nowrap; */
+    background-color: transparent;
+    border: 0;
+}
+
+.header{
+    padding-top: 5%;
+}

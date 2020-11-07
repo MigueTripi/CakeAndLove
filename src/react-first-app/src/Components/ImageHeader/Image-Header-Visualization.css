@@ -1,0 +1,13 @@
+.image-header-visualization{
+    text-align: center;
+}
+
+.image-header-visualization .previous-image{
+    float: left;
+    margin-left: 5%;
+}
+
+.image-header-visualization .next-image{
+    float: right;
+    margin-right: 5%;
+}
